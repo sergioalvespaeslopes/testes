@@ -16,6 +16,6 @@ echo "";
 </body>
 </html>
 <script>
-    // alert();
+     alert('pull ok');
 </script>
 
