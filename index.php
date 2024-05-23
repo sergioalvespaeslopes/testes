@@ -9,7 +9,7 @@ echo "";
     } 
 </style>
 <html>
-    <title>init-prj-publicss</title>
+    <title>init-prj-publics</title>
 <head></head>
 <body>
     <h1 class="sergio"></h1>
